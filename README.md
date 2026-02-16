@@ -1,2 +1,2 @@
 # is22b-slivin-repo
-Fixes #1
+Fixes 1
